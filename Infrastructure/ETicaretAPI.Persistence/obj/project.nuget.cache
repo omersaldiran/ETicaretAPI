@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBVgH9oShHlOpU1CXqJ3/y0TUZZEDJXBierpDnH18oedpKxxpAYPm/7iy99ysmh0h1F/9mFByg84wg1ON1BoAw==",
+  "success": true,
+  "projectFilePath": "/Users/omersaldiran/Documents/Dotnet/eTicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/omersaldiran/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore/6.0.9/microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.9/microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.9/microsoft.entityframeworkcore.analyzers.6.0.9.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.design/6.0.9/microsoft.entityframeworkcore.design.6.0.9.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.9/microsoft.entityframeworkcore.relational.6.0.9.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/npgsql/6.0.6/npgsql.6.0.6.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.6/npgsql.entityframeworkcore.postgresql.6.0.6.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/package/1.0.0/package.1.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/omersaldiran/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Package 1.0.0' paketi, proje hedef çerçevesi 'net6.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Package",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
